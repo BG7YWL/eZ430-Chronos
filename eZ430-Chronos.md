@@ -1,4 +1,4 @@
-![EZ430-Chronos](.\img\EZ430-Chronos.png)
+![EZ430-Chronos](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/EZ430-Chronos.png)
 
 The eZ430-Chronos is a highly integrated, wireless development system that provides a complete reference design for developers creating wireless smart watch applications. Chronos is a reference platform for many applications, such as wireless watch systems, personal displays for personal area networks, wireless sensor nodes for remote data collection, & other applications.
 
@@ -14,7 +14,7 @@ The eZ430-Chronos watch may be disassembled to be reprogrammed with a custom app
 
 # Development Features
 
-![CC430F6137_Block_Diagram](.\img\CC430F6137_Block_Diagram.png)
+![CC430F6137_Block_Diagram](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/CC430F6137_Block_Diagram.png)
 
 - Fully reprogrammable development environment based on the [CC430F6137](http://focus.ti.com/docs/prod/folders/print/cc430f6137.html). The CC430 is an MSP430 that is integrated <1GHz wireless transceiver for custom wireless applications
 - Highly integrated, re-programmable watch development tool includes on-board 3-axis accelerometer, pressure sensor, temperature sensor, battery voltage sensor
@@ -54,7 +54,7 @@ The eZ430-Chronos watch may be disassembled to be reprogrammed with a custom app
 
 ## Integrated Sensors
 
-![Chronos_+_emulator](.\img\Chronos_+_emulator.jpg)
+![Chronos_+_emulator](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/Chronos_+_emulator.jpg)
 
 - 3-Axis Accelerometer - current kit with white PCB ([Bosch Sensortec BMA250](http://www.bosch-sensortec.com/homepage/products_3/3_axis_sensors/acceleration_sensors/bma250_1/bma250))
 - Pressure Sensor - current kit with white PCB ([Bosch Sensortec BMP085](http://www.bosch-sensortec.com/homepage/products_3/environmental_sensors_1/bmp085_1/bmp085))
@@ -187,7 +187,7 @@ Known issues in release 1.1:
 - The software packages contain source projects for the Wireless Update. The corresponding IAR project will erase the calibration data of the watch (in information memory). Moreover, there may be a error message that no access point can be found. We're working on resolving this issue. In the meantime, please use the [eZ430-Chronos Firmware Update Tool](http://www.bm-innovations.com/chronos) from BM innovations to program the BSL memory of the CC430.
 - The Wireless Update feature on the new Chronos Control Center v1.1 will only work once the RF access point was updated with the new software.
 
-![EZ430-Chronos_Control_Center](.\img\EZ430-Chronos_Control_Center.png)
+![EZ430-Chronos_Control_Center](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/EZ430-Chronos_Control_Center.png)
 
 ## Control Center for Windows (**Install this first**)
 
@@ -440,7 +440,7 @@ This application example builds on the Interval Training example but is slightly
 
 ## [Chronos Flying Mouse](https://processors.wiki.ti.com/index.php/Chronos_Flying_Mouse)
 
-![Chronos_flying_mouse_main](.\img\Chronos_flying_mouse_main.png)
+![Chronos_flying_mouse_main](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/Chronos_flying_mouse_main.png)
 
 Use the Chronos watch as an intuitive computer mouse or joystick with snap-to-click technology. [Watch the video!](http://www.youtube.com/watch?v=TDL3JRG_zrs).
 
@@ -454,7 +454,7 @@ The safe Baby Alert Broadcast Interface uses a TI C1110 wireless interface attac
 
 High five counter with Twitter reporting
 
-![RockEm-Thumbnail](.\img\RockEm-Thumbnail.png)
+![RockEm-Thumbnail](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/RockEm-Thumbnail.png)
 
 ## [Electronic Rock-Em Sock-Em Robots](https://processors.wiki.ti.com/index.php/Electronic_Rock-Em_Sock-Em_Robots)
 
@@ -462,67 +462,67 @@ High five counter with Twitter reporting
 
 ## [Pro Swing Analyzer](https://processors.wiki.ti.com/index.php/Pro_Swing_Analyzer_-_Chronos_Project_Design)
 
-![TIsportswatch](.\img\TIsportswatch.png)
+![TIsportswatch](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/TIsportswatch.png)
 
 Sports application specific to swing technique, speed, and other various logistics. When the Chronos watch was first announced for the Co-Op challenge, a bunch of ideas were thrown around about using the watch to control devices like your television or stereo. Although most of these ideas are useful, none of them reached out to potential consumers wanting to buy this watch. Feeding off the idea of pleasing a consumer, I started at the origin with watches original functions. This is a typical sports watch with functions such as a heart rate monitor, altimeter, stopwatch, running speed, etc. All sports enthusiast related functions. So, the natural progression is to improve the watch for the athlete. The goal is to give the target consumer, the athlete, additional reasons to make a buying decision as opposed to “couch potato” features like a TV controller giving no added convenience that a normal controller doesn’t already contain. The Pro Swing Analyzer, the next generation of sports watches.
 
 ## [Smart Office: Automatic Lighting System](https://processors.wiki.ti.com/index.php/Smart_Office:_Automatic_Lighting_System)
 
-![Blinds](.\img\Blinds.jpg)
+![Blinds](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/Blinds.jpg)
 
 **Watch the demonstration video - [Video!](http://www.youtube.com/watch?v=gVIsu5mOb-8)** The system implemented in this project includes wireless automatic and manual blinds controlled by the Chronos EZ430 watch. The blinds are controlled in an auto mode depending on the light intensity in front or behind the blinds (read from the 2 strategically placed light dependent resistors (LDR) sensors). The user also has the option of manual blinds control and turning the lights on and off in the room with the watch.
 
 ## [Ultimate Workout Companion](https://processors.wiki.ti.com/index.php/Ultimate_Workout_Companion)
 
-![UWC_Small](.\img\UWC_Small.JPG)
+![UWC_Small](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/UWC_Small.JPG)
 
 The Ultimate Workout Companion offers the ultimate in TI technology to provide its user with the best workout experience possible. It interfaces simultaneously with multiple wireless devices and internal sensors to provide an accurate heart rate, distance traveled, calories burned, and weight lost. It warns the user if they are overexerting themselves or overheating. It also interfaces with your multimedia PC for playing and pausing workout videos.
 
 ## [RF-PID: Personal Item Finder](https://processors.wiki.ti.com/index.php/RF-PID)
 
-![RFPIDProto](.\img\RFPIDProto.JPG)
+![RFPIDProto](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/RFPIDProto.JPG)
 
 Never lose your personal items again! The RF Item-Finder helps keep track of your daily items such as; cellphones, keys, mp3 players, or even television remotes.
 
 ## [Remote Disconnect and Load Management using Smart Energy Meter](https://processors.wiki.ti.com/index.php/Remote_Disconnect_and_Load_Management_using_Smart_Energy_Meter)
 
-![System_Block_Diagram](.\img\System_Block_Diagram.jpg)
+![System_Block_Diagram](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/System_Block_Diagram.jpg)
 
 This application is for Smart Grid and Smart Energy (electricity) meter customers. Through this application, home owners and utility companies can remotely monitor and disconnect total or partial energy services. In addition, it serves as a tool for home and office owners with remote load management which allows them to save money on their electricity bills. **[Watch the video](http://www.youtube.com/watch?v=OgCx4uVDNVM)**
 
 ## [EZ-House: Chronos Home Automation](https://processors.wiki.ti.com/index.php/EZ-House)
 
-![MyimageA](.\img\MyimageA.PNG)
+![MyimageA](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/MyimageA.PNG)
 
 EZ-Home uses the EZ-430 Chronos watch as a control device for the AC system and the lights of the house. It is also expandable to control the garage door, the main door of the house and any other application such as projector screens or hearths.
 
 ## [The Punch Meter](https://processors.wiki.ti.com/index.php/The_Punch_Meter)
 
-![Screenshot](.\img\Screenshot.jpg)
+![Screenshot](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/Screenshot.jpg)
 
 This is a 30 second game that requires strength and speed! An excellent stress relief for work. Enjoy.
 
 ## [Location Aware Temperature Control](https://processors.wiki.ti.com/index.php/Location_Aware_Temperature_Control)
 
-![LATC_system](.\img\LATC_system.png)
+![LATC_system](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/LATC_system.png)
 
 The Location-Aware Temperature Control allows for more intelligent control of the user's home HVAC system. It wirelessly monitors the location and temperature of the room in which the user is currently located. This allows the system to dynamically control the indoor environment to maximize user comfort. It paves the way for inexpensive and eco-friendly smart homes, making this type of technology much more accessible to a large base of customers.
 
 ## [Chronos Tennis](https://processors.wiki.ti.com/index.php/Chronos_Tennis)
 
-![Chronos_Watch_Poster](.\img\Chronos_Watch_Poster.jpg)
+![Chronos_Watch_Poster](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/Chronos_Watch_Poster.jpg)
 
 Multiplayer Tennis Game Using the Chronos Watch
 
 ## [Rubato – Tempo at the discretion of the performer](https://processors.wiki.ti.com/index.php/Rubato_–_Tempo_at_the_discretion_of_the_performer)
 
-![RubatoIcon](.\img\RubatoIcon.jpg)
+![RubatoIcon](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/RubatoIcon.jpg)
 
 Go ahead--embrace your inner hippie, rock 'n' roller, pop star, or whatever you want without losing the correct Tempo. This app adjusts your music Tempo to the rhythm of your heart.
 
 ## [Altitude Accumulator](http://blog.frankvh.com/2010/11/11/ti-chronos-watch-custom-firmware/)
 
-![3in1_2](.\img\3in1_2.jpg)
+![3in1_2](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/3in1_2.jpg)
 
 For an active outdoors person. The altitude accumulator function tracks how much vertical you've gained. Great for hiking, biking, skiing, and other hilly outdoor pursuits. It accumulates total vertical gain as you travel over rolling terrain, tracking total vertical, peak altitude, and your current altitude relative to your starting point. It will also properly display altitudes of greater than 9999 feet by using the bottom line of the display. [Full sourcecode and details here.](http://blog.frankvh.com/2010/11/11/ti-chronos-watch-custom-firmware/)
 
@@ -570,7 +570,7 @@ http://code.google.com/p/chronos-control/
 
 ## [Toscanini: A gestural control interface for Max/MSP](http://github.com/conductiveio/toscanini)
 
-![Toscanini](.\img\Toscanini.png)
+![Toscanini](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/Toscanini.png)
 
 The [Toscanini](http://github.com/conductiveio/toscanini) interface retrieves motion data from the EZ-430 Chronos development tool and translates it into MIDI. Three streams of MIDI data are then sent out and can be used to control other Max/MSP applications, software synthesizers, plugins, outboard MIDI hardware, and anything else that makes use of the MIDI protocol on [mobilt bredband](http://www.mobiltbredbandv.se/). [Conductive IO](http://conductiveio.com/), the company that developed the interface, is creating a worldwide community of musicians, developers, artists, performers, and all others who are interested in using motion sensitive technology to further their craft. Contact: RobbyGrodin@ConductiveIO.com
 
@@ -580,7 +580,7 @@ This project turns your Chronos watch into skydiving altimeter.
 
 ## [Updated firmware and Control Center](http://sourceforge.net/projects/ez430chronosup/)
 
-![Controll_Center](.\img\Controll_Center.jpg)
+![Controll_Center](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/Controll_Center.jpg)
 
 Updated clock and data logger firmware and updated control center sync and data logger sync.
 
@@ -665,7 +665,7 @@ If you would like to have a custom watch based on the Chronos developed or would
 
 # Compatible Accessories
 
-![EZ430-Chronos_chest_strap](.\img\EZ430-Chronos_chest_strap.jpg)
+![EZ430-Chronos_chest_strap](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/EZ430-Chronos_chest_strap.jpg)
 
 ## Chest straps for heart rate monitoring
 
@@ -682,7 +682,7 @@ No bike sensor is planned for 433MHz.
 
 ## Compatible RF Development Boards
 
-![CC1111EMK868-915](.\img\CC1111EMK868-915.png)
+![CC1111EMK868-915](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/CC1111EMK868-915.png)
 
 - [AMB8423](http://uk.farnell.com/amber-wireless/amb8423/module-radio-868-915mhz/dp/1642378) eZ430 868/915MHZ target board based on CC1101 and MSP430F2274
 - [EM430F6137RF900](http://www.ti-estore.com/Merchant2/merchant.mvc?Screen=PROD&Product_Code=EM430F6137RF900) CC430 Wireless Development Board
