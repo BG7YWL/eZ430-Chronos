@@ -1,3 +1,4 @@
+# eZ430-Chronos
 ![EZ430-Chronos](https://github.com/BG7YWL/eZ430-Chronos/blob/main/img/EZ430-Chronos.png)
 
 The eZ430-Chronos is a highly integrated, wireless development system that provides a complete reference design for developers creating wireless smart watch applications. Chronos is a reference platform for many applications, such as wireless watch systems, personal displays for personal area networks, wireless sensor nodes for remote data collection, & other applications.
